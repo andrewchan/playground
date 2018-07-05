@@ -1,0 +1,132 @@
+1530051788721	geckodriver	INFO	geckodriver 0.21.0
+1530051788728	geckodriver	INFO	Listening on 127.0.0.1:59205
+1530051789742	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.9iZi70xuNH9V"
+*** You are running in headless mode.
+1530051792254	Marionette	INFO	Listening on port 42029
+1530051792381	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530051890283	geckodriver	INFO	geckodriver 0.21.0
+1530051890289	geckodriver	INFO	Listening on 127.0.0.1:50247
+1530051891297	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.t3sd26IsWODW"
+*** You are running in headless mode.
+1530051893363	Marionette	INFO	Listening on port 33459
+1530051893411	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530052052116	geckodriver	INFO	geckodriver 0.21.0
+1530052052121	geckodriver	INFO	Listening on 127.0.0.1:38455
+1530052053127	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tnlov21EyM9L"
+1530052055437	Marionette	INFO	Listening on port 36571
+1530052055553	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530053262133	geckodriver	INFO	geckodriver 0.21.0
+1530053262139	geckodriver	INFO	Listening on 127.0.0.1:50389
+1530053263146	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.TmgRU2NV6afe"
+1530053265562	Marionette	INFO	Listening on port 45687
+1530053265684	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530053649256	geckodriver	INFO	geckodriver 0.21.0
+1530053649262	geckodriver	INFO	Listening on 127.0.0.1:45721
+1530053650268	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.OWlBELmvsL7c"
+1530053652634	Marionette	INFO	Listening on port 37795
+1530053652693	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530053690307	geckodriver	INFO	geckodriver 0.21.0
+1530053690313	geckodriver	INFO	Listening on 127.0.0.1:41455
+1530053691320	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.K6XGKPkmgUJ4"
+1530053693842	Marionette	INFO	Listening on port 37637
+1530053693932	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530053740712	geckodriver	INFO	geckodriver 0.21.0
+1530053740718	geckodriver	INFO	Listening on 127.0.0.1:41955
+1530053741724	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.c8wN74jRsZaS"
+1530053744142	Marionette	INFO	Listening on port 35981
+1530053744236	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530053776049	geckodriver	INFO	geckodriver 0.21.0
+1530053776054	geckodriver	INFO	Listening on 127.0.0.1:53465
+1530053777061	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.7iXQPegdGl1n"
+1530053779456	Marionette	INFO	Listening on port 39225
+1530053779472	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530054714889	geckodriver	INFO	geckodriver 0.21.0
+1530054714895	geckodriver	INFO	Listening on 127.0.0.1:57783
+1530054715901	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.m1g7d57N0FyE"
+1530054718120	Marionette	INFO	Listening on port 37217
+1530054718223	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530054767347	geckodriver	INFO	geckodriver 0.21.0
+1530054767353	geckodriver	INFO	Listening on 127.0.0.1:37523
+1530054768360	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.nXRksABr0Y3C"
+1530054770584	Marionette	INFO	Listening on port 37793
+1530054770672	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530055376085	geckodriver	INFO	geckodriver 0.21.0
+1530055376091	geckodriver	INFO	Listening on 127.0.0.1:56371
+1530055377099	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.t4kBLMd3TCXo"
+1530055379633	Marionette	INFO	Listening on port 36557
+1530055379715	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s4.bcbits.com/tmpdata/cache/global_foot2_bundle_min_089aac3770897f45a4d167f08deecd89.js, line 280: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530055486063	geckodriver	INFO	geckodriver 0.21.0
+1530055486071	geckodriver	INFO	Listening on 127.0.0.1:46333
+1530055487076	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.VpfcOwHvQ6gb"
+1530055489445	Marionette	INFO	Listening on port 43239
+1530055489509	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s4.bcbits.com/tmpdata/cache/global_foot2_bundle_min_089aac3770897f45a4d167f08deecd89.js, line 280: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530055800171	geckodriver	INFO	geckodriver 0.21.0
+1530055800177	geckodriver	INFO	Listening on 127.0.0.1:37751
+1530055801185	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.35KdJFFZjf6o"
+1530055803640	Marionette	INFO	Listening on port 40469
+1530055803713	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s4.bcbits.com/tmpdata/cache/global_foot2_bundle_min_089aac3770897f45a4d167f08deecd89.js, line 280: unreachable code after return statement
+1530056408911	geckodriver	INFO	geckodriver 0.21.0
+1530056408919	geckodriver	INFO	Listening on 127.0.0.1:33537
+1530056409923	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.GHeL7EayDDQw"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1530056412512	Marionette	INFO	Listening on port 39541
+1530056412566	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s4.bcbits.com/tmpdata/cache/global_foot2_bundle_min_089aac3770897f45a4d167f08deecd89.js, line 280: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530056534573	geckodriver	INFO	geckodriver 0.21.0
+1530056534579	geckodriver	INFO	Listening on 127.0.0.1:58693
+1530056535586	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.DV3rKih53asm"
+1530056538113	Marionette	INFO	Listening on port 40203
+1530056538201	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s4.bcbits.com/tmpdata/cache/global_foot2_bundle_min_089aac3770897f45a4d167f08deecd89.js, line 280: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530057953932	geckodriver	INFO	geckodriver 0.21.0
+1530057953939	geckodriver	INFO	Listening on 127.0.0.1:38901
+1530057954946	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.FgJa05H6yrKK"
+1530057957342	Marionette	INFO	Listening on port 44921
+1530057957369	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s4.bcbits.com/tmpdata/cache/global_foot2_bundle_min_089aac3770897f45a4d167f08deecd89.js, line 280: unreachable code after return statement
+1530058723789	geckodriver	INFO	geckodriver 0.21.0
+1530058723795	geckodriver	INFO	Listening on 127.0.0.1:35591
+1530058724802	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.CqHQLutS5Mqk"
+1530058727030	Marionette	INFO	Listening on port 35859
+1530058727114	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s4.bcbits.com/tmpdata/cache/global_foot2_bundle_min_089aac3770897f45a4d167f08deecd89.js, line 280: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530059094078	geckodriver	INFO	geckodriver 0.21.0
+1530059094084	geckodriver	INFO	Listening on 127.0.0.1:33541
+1530059095089	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.mDUX8zeRVq0p"
+1530059097646	Marionette	INFO	Listening on port 34909
+1530059097707	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s4.bcbits.com/tmpdata/cache/global_foot2_bundle_min_089aac3770897f45a4d167f08deecd89.js, line 280: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530059396676	geckodriver	INFO	geckodriver 0.21.0
+1530059396682	geckodriver	INFO	Listening on 127.0.0.1:44959
+1530059397689	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rjnggduFqb5Q"
+1530059399859	Marionette	INFO	Listening on port 44549
+1530059399921	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s4.bcbits.com/tmpdata/cache/global_foot2_bundle_min_089aac3770897f45a4d167f08deecd89.js, line 280: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530059436882	geckodriver	INFO	geckodriver 0.21.0
+1530059436889	geckodriver	INFO	Listening on 127.0.0.1:55097
+1530059437894	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.UClnqgY949KA"
+1530059440119	Marionette	INFO	Listening on port 37039
+1530059440206	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s4.bcbits.com/tmpdata/cache/global_foot2_bundle_min_089aac3770897f45a4d167f08deecd89.js, line 280: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
